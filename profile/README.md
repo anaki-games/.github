@@ -1,10 +1,7 @@
 ## Hi there 👋
 
+Ready to Play ? 🎉
 
-🙋‍♀️ A short introduction - what is your organization all about?
+Visit the [website](https://anaki-games.github.io)
 
-🌈 Contribution guidelines - how can the community get involved?
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-
-🍿 Fun facts - what does your team eat for breakfast?
+[![X3_1](https://github.com/anaki-games/.github/assets/33315640/601785cd-a3d5-4a43-b97a-f2e82510c893)](https://anaki-games.github.io)
