@@ -1,6 +1,6 @@
-## Hi there 👋
+# Anaki Games
 
-Ready to Play ? 🎉
+## Ready to Play ? 🎉
 
 Visit the [website](https://anaki-games.github.io)
 
